@@ -14,7 +14,7 @@ namespace ConsoleApp1
         }
         public void print2()
         {
-            Console.WriteLine("Jensesdff")
+            Console.WriteLine("Jensesdff");
         }
     }
 }
