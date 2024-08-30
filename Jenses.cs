@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Jenses");
         }
+        public void print2()
+        {
+            Console.WriteLine("Jensesdff")
+        }
     }
 }
